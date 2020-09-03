@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> **The wind is strong, but it goes around my soul. **
 Use the left arrow to go back!
